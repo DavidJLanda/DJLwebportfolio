@@ -14,7 +14,7 @@ hr {
 }
 
 a {
-  color: #17fda5;
+  color: #177bfd;
 }
 a:hover {
   color: #93ada4;
@@ -25,7 +25,7 @@ header.masthead {
   padding-top: 6rem;
   padding-bottom: 3rem;
   text-align: center;
-  background-color: #c9eacb;
+  background-color: #e0eac9;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -108,7 +108,7 @@ header.masthead {
   height: 3rem;
   width: 3rem;
   background-color: #6c757d;
-  color: #f8f9fa;
+  color: #f8fafa;
   border-radius: 100%;
   font-size: 1.5rem;
   margin-right: 1.5rem;
@@ -153,7 +153,7 @@ header.masthead {
   color: #fff;
 }
 .navbar-dark .navbar-nav .nav-link {
-  color: #4bf361;
+  color: #4b86f3;
 }
 .navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link:focus {
   color: #93ada4;
@@ -311,7 +311,7 @@ header.masthead {
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  background-color: #c9eacb;
+  background-color: #c9eae8;
   color: #f8f9fa;
 }
 #mainNav .navbar-toggler {
